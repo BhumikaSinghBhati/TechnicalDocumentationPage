@@ -1,0 +1,32 @@
+#title,#description{
+    text-align: center;
+    color: hsl(240,95%,100%)
+  }
+  fieldset{
+    border: 2px solid;
+    width: 490px;
+    margin: auto;
+    background-color: hsl(240,100%,10%);
+  }
+  label{
+    color: hsl(240,95%,100%);
+  }
+  #name,#email,#number,select,textarea,#submit{
+    width: 780px
+  }
+  #submit{
+    background-color: hsl(120,100%,25%);
+    height: 45px;
+    border-color: hsl(120,100%,25%);
+    border-radius: 4px;
+  }
+  textarea{
+    height: 100px;
+  }
+  #name,#email,#number,select{
+    height: 33px;
+    border-radius: 4px;
+  }
+  body{
+    background-image: url("https://mcdn.wallpapersafari.com/medium/90/22/lfECXp.jpg");
+  }
