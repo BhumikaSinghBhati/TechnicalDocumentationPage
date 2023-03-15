@@ -1,2 +1,3 @@
-# TechnicalDocumentationPage
-A documentation page which shows basics of my skills
+# My basics of Web Development
+Checkout my basics
+
